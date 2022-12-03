@@ -4,7 +4,7 @@
 
 By Prince Kr Paswan
 
-## [Link to the Theme-Changer-App](https://shoppingchart.netlify.app/)
+## [Link to the Theme-Changer-App](https://theme-changer-p.netlify.app/)
 
 
 ![Completed Website](./t1.png)
